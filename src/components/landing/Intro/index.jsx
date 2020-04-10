@@ -2,7 +2,7 @@ import React from 'react'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import { Header } from 'components/theme'
 import { Container, Button } from 'components/common'
-import dev from 'assets/illustrations/dev.svg'
+import dev from 'assets/illustrations/researching.svg'
 import { Wrapper, IntroWrapper, Details, Thumbnail } from './styles'
 
 export const Intro = () => (
@@ -10,10 +10,10 @@ export const Intro = () => (
 		<Header />
 		<IntroWrapper as={Container}>
 			<Details>
-				<h1>Hi There!</h1>
-				<h4>I'm Mathew. I'm a Shopify Developer</h4>
+				<h1>Howdy!</h1>
+				<h4>I'm Mathew.<br/> I'm a Shopify Developer</h4>
 				<Button as={AnchorLink} href="#contact">
-					Hire me
+					Send me a message
 				</Button>
 			</Details>
 			<Thumbnail>

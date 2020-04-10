@@ -9,7 +9,7 @@ export const Footer = () => (
 			<Details>
 				<h2>Mathew Kostiuk</h2>
 				<span>
-					© All rights are reserved | {new Date().getFullYear()} |
+					© All rights are reserved | {new Date().getFullYear()}
 				</span>
 			</Details>
 			<Links>

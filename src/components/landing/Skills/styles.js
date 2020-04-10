@@ -6,6 +6,11 @@ export const Wrapper = styled.div`
   background-size: contain;
   background-position: left top;
   background-repeat: no-repeat;
+  padding-bottom: 8em;
+`;
+
+export const SecondWrapper = styled.div`
+  background-repeat: no-repeat;
 `;
 
 export const SkillsWrapper = styled.div`
