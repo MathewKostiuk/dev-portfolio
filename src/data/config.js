@@ -1,10 +1,10 @@
 module.exports = {
-  defaultTitle: 'Mathew Kostiuk',
+  defaultTitle: 'Mathew Kostiuk - Shopify Developer',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'Mathew Kostiuk',
   url: 'https://portfolio.smakosh.com',
   legalName: 'Mathew Kostiuk',
-  defaultDescription: 'My name\'s Mathew. I\'m a Full-stack Shopify Developer.',
+  defaultDescription: 'My name\'s Mathew. I\'m a Full-stack Shopify Developer. I can help you create an effective online presence so you can start selling 24/7.',
   socialLinks: {
     twitter: 'http://www.twitter.com/smakosh',
     github: 'https://github.com/MathewKostiuk',
@@ -13,7 +13,7 @@ module.exports = {
     youtube: 'https://www.youtube.com/user/smakoshthegamer',
     google: 'https://plus.google.com/u/0/+IsmailSmakoshGhallou',
   },
-  googleAnalyticsID: 'UA-88875900-4',
+  googleAnalyticsID: 'UA-163349397-1',
   themeColor: '#6b63ff',
   backgroundColor: '#6b63ff',
   social: {
